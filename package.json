@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrrLrr/data-structures-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrrLrr/data-structures-practice/issues"
+  },
+  "homepage": "https://github.com/TrrLrr/data-structures-practice#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
